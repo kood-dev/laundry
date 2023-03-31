@@ -21,7 +21,6 @@ public class Notice extends CreatedAndLastModifiedDate {
     private String title;
     private String contents;
     private int ordinal;
-
     private YNType useYn = YNType.Y;
 
 }
